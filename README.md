@@ -124,21 +124,7 @@ python create_qing_collections_visualization.py
 #### 学术文献
 - Grimberg, P. (2024). "Guwantu: The Yongzheng Emperor's 'Illustrated Inventory of Ancient Playthings'." *Transactions of the Royal Historical Society*.
 - Lefebvre, É. (2008). "L'Image des antiquités accumulées de Ruan Yuan." *Arts Asiatiques*.
-- 以及其他115篇相关学术论文
-
-### 🎓 学术价值
-
-#### 研究贡献
-1. **数据可视化**: 首次系统地将清宫收藏数据进行可视化呈现
-2. **比较研究**: 提供了雍正与乾隆收藏的多维度比较框架
-3. **历史分析**: 揭示了清代宫廷收藏的发展脉络和学术影响
-
-#### 应用场景
-- 艺术史教学和研究
-- 博物馆展览策划
-- 文物鉴定参考
-- 清史研究
-- 金石学史研究
+- 以及其他相关学术论文
 
 ### 🤝 贡献指南
 
@@ -162,18 +148,6 @@ python create_qing_collections_visualization.py
 
 本项目采用 MIT 许可证 - 详见 [LICENSE](LICENSE) 文件
 
-### 📮 联系方式
-
-如有问题或建议，欢迎：
-- 提交 Issue
-- 发起 Discussion
-- 通过 Pull Request 贡献代码
-
-### 🙏 致谢
-
-感谢所有为清代宫廷收藏研究做出贡献的学者和研究者。
-
----
 
 ## English
 
@@ -290,21 +264,7 @@ This project is based on the following historical documents and scholarly resear
 #### Scholarly Literature
 - Grimberg, P. (2024). "Guwantu: The Yongzheng Emperor's 'Illustrated Inventory of Ancient Playthings'." *Transactions of the Royal Historical Society*.
 - Lefebvre, É. (2008). "L'Image des antiquités accumulées de Ruan Yuan." *Arts Asiatiques*.
-- Plus 115 additional scholarly papers
-
-### 🎓 Academic Value
-
-#### Research Contributions
-1. **Data Visualization**: First systematic visualization of Qing imperial collection data
-2. **Comparative Study**: Provides multi-dimensional comparison framework
-3. **Historical Analysis**: Reveals the development trajectory and scholarly impact
-
-#### Application Scenarios
-- Art history teaching and research
-- Museum exhibition planning
-- Cultural relic authentication reference
-- Qing Dynasty historical studies
-- History of epigraphy studies
+- Plus additional scholarly papers
 
 ### 🤝 Contributing
 
@@ -327,17 +287,6 @@ Contributions to improve and expand this project are welcome!
 ### 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
-
-### 📮 Contact
-
-For questions or suggestions:
-- Submit an Issue
-- Start a Discussion
-- Contribute via Pull Request
-
-### 🙏 Acknowledgments
-
-Thanks to all scholars and researchers who have contributed to the study of Qing imperial collections.
 
 ---
 
